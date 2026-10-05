@@ -1,4 +1,4 @@
-# TM6M666666666666666666elecommunications Systems Project
+# Telecommunications Systems Project
 
 Python implementation developed for the Telecommunications Systems course.
 
