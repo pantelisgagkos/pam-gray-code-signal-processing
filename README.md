@@ -9,7 +9,7 @@ This project includes three main parts:
 - Gray code generation using recursive and iterative methods
 - M-PAM waveform generation with Gray mapping and triangular pulse shaping
 - Power Spectral Density analysis using theoretical calculations and FFT/periodogram comparison
-^
+
 ## Files
 
 ### `gray_code.py`
